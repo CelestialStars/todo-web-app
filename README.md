@@ -6,7 +6,8 @@ Java SE & Java EE
 Spring Boot
 Spring MVC
 Spring Security
+Maven
 Java Server Pages (JSP)
-and Maven
+and Bootstrap
 
 To be updated! 
